@@ -18,16 +18,12 @@
 
 ## Beschrijving
 
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de toekomst kun je artikelen lezen over Visual Thinking gerelateerde artikelen (onderwerpen), die geschreven zijn door Charley Muhren of andere auteurs. 
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 ## Installatie
-
-## Gebruik
 
 ## Bronnen
 
