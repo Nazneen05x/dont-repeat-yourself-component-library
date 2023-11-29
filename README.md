@@ -49,9 +49,20 @@ Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de 
 4. Terminal open.
 5. `Npm install` (typen in je terminal, daarna enter druken).
 6. `Npm run dev` (typen in je terminal, daarna enter druken).
-7. localhost:5173 (live link om artikel (blog) pagina te zien in je browser)
+7. localhost:5173  (live link om artikel (blog) pagina te zien in je browser)
 
 ## Bronnen
+
+
+<ul>
+<li>https://www.google.com</li>
+<li>https://www.figma.com</li>
+<li>https://tinypng.com</li>
+<li>https://webpconverter.com/nl/jpg-to-webp</li>
+
+
+
+</ul>
 
 ## Licentie
 
