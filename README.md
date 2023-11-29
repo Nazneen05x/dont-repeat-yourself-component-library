@@ -1,58 +1,36 @@
-# create-svelte
+# Artikel (blog) pagina ✍🏾 
 
-Everything you need to build a Svelte library, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+<img width="600" alt="Scherm­afbeelding 2023-11-29 om 23 58 22" src="https://github.com/Nazneen05x/dont-repeat-yourself-component-library/assets/112861261/473de81d-c96a-4cb2-a034-a64dea6ca43c">
 
-Read more about creating a library [in the docs](https://kit.svelte.dev/docs/packaging).
+<img width="600" alt="Scherm­afbeelding 2023-11-29 om 23 58 32" src="https://github.com/Nazneen05x/dont-repeat-yourself-component-library/assets/112861261/ab6be561-6297-4337-ac62-9ba89ea89471">
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Inhoudsopgave
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Installatie](#installatie)
+  * [Gebruik](#gebruik)
+  * [Bronnen](#bronnen)
+  * [Licentie](#licentie)
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Beschrijving
 
-```bash
-npm run dev
+<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+<!-- Voeg een mooie poster visual toe 📸 -->
+<!-- Voeg een link toe naar Github Pages 🌐-->
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Kenmerken
+<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-Everything inside `src/lib` is part of your library, everything inside `src/routes` can be used as a showcase or preview app.
+## Installatie
 
-## Building
+## Gebruik
 
-To build your library:
+## Bronnen
 
-```bash
-npm run package
-```
+## Licentie
 
-To create a production version of your showcase app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-
-## Publishing
-
-Go into the `package.json` and give your package the desired name through the `"name"` option. Also consider adding a `"license"` field and point it to a `LICENSE` file which you can create from a template (one popular option is the [MIT license](https://opensource.org/license/mit/)).
-
-To publish your library to [npm](https://www.npmjs.com):
-
-```bash
-npm publish
-```
+This project is licensed under the terms of the [MIT license](./LICENSE).
