@@ -21,7 +21,25 @@
 Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de toekomst kun je artikelen lezen over Visual Thinking gerelateerde artikelen (onderwerpen), die geschreven zijn door Charley Muhren of andere auteurs. 
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+<strong>`TOOLS 🧰`</strong>
+<ul>
+<li>VSCode</li>
+<li>Fimga</li>
+</ul>
+
+<strong>`GEBRUIKTE TECHNIEKEN 🪚`</strong>
+<ul>
+<li>Svelte</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+
+<strong>`🗣️ COMMUNICATIE MIDDELEN`</strong>
+<ul>
+<li>WhatsApp</li>
+ <li>Microsoft Teams</li>
+</ul>
 
 ## Installatie
 
