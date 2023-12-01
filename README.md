@@ -5,7 +5,7 @@
 <img width="600" alt="Scherm­afbeelding 2023-11-29 om 23 58 32" src="https://github.com/Nazneen05x/dont-repeat-yourself-component-library/assets/112861261/ab6be561-6297-4337-ac62-9ba89ea89471">
 
 
-## Inhoudsopgave
+## Inhoudsopgave 📚
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
@@ -16,11 +16,11 @@
 
 
 
-## Beschrijving
+## Beschrijving 📃
 
 Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de toekomst kun je artikelen lezen over Visual Thinking gerelateerde artikelen (onderwerpen), die geschreven zijn door Charley Muhren of andere auteurs. 
 
-## Kenmerken
+## Kenmerken 🖇️
 <strong>`TOOLS 🧰`</strong>
 <ul>
 <li>VSCode</li>
@@ -41,8 +41,7 @@ Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de 
  <li>Microsoft Teams</li>
 </ul>
 
-## Installatie
-
+## Installatie  🛠️
 1. Fork deze leertaak.
 2. Code klonen naar Github Desktop.
 3. Code (map) open in VSCode of een andere editor.
@@ -51,7 +50,7 @@ Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de 
 6. `Npm run dev` (typen in je terminal, daarna enter druken).
 7. localhost:5173  (live link om artikel (blog) pagina te zien in je browser)
 
-## Bronnen
+## Bronnen 🌐
 
 
 <ul>
@@ -64,6 +63,6 @@ Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de 
 
 </ul>
 
-## Licentie
+## Licentie 🔒
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
