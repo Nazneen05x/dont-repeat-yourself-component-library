@@ -20,7 +20,7 @@
 
 Voor de Visual Thinking website heb ik een artikel (blog) pagina gemaakt. In de toekomst kun je artikelen lezen over Visual Thinking gerelateerde artikelen (onderwerpen), die geschreven zijn door Charley Muhren of andere auteurs. 
 
-Bekijk hier de website:
+Bekijk hier de website: https://dont-repeat-yourself-component-library-tawny.vercel.app/artikelen
 
 ## Kenmerken 🖇️
 <strong>`TOOLS 🧰`</strong>
